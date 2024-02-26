@@ -1,3 +1,7 @@
+function suma (x,y,z){
+        return x + y +z;
+}
+
 function subs (x,y){
     return x - y;
 }
